@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://jacksonmooring.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://jacksonmooring.com/</loc>
+</url>
+<url>
+<loc>https://jacksonmooring.com/john-adams-book-review-2/</loc>
+<lastmod>2021-02-25T17:06:55-06:00</lastmod>
+</url>
+<url>
+<loc>https://jacksonmooring.com/john-adams-the-hidden-hero/</loc>
+<lastmod>2021-02-25T17:07:47-06:00</lastmod>
+</url>
+<url>
+<loc>https://jacksonmooring.com/who-i-am/</loc>
+<lastmod>2021-02-24T19:53:36-06:00</lastmod>
+<image:image>
+<image:loc>https://jacksonmooring.com/media/posts/2/ash-edmonds-Koxa-GX_5zs-unsplash.jpg</image:loc>
+<image:title><![CDATA[Colorful Laptop]]></image:title>
+</image:image>
+</url>
+</urlset>

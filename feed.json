@@ -1,0 +1,55 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Jackson&#x27;s Blog",
+    "description": "",
+    "home_page_url": "https://jacksonmooring.com",
+    "feed_url": "https://jacksonmooring.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Jackson Mooring"
+    },
+    "items": [
+        {
+            "id": "https://jacksonmooring.com/john-adams-the-hidden-hero/",
+            "url": "https://jacksonmooring.com/john-adams-the-hidden-hero/",
+            "title": "John Adams: The Hidden Hero",
+            "author": {
+                "name": "Jackson Mooring"
+            },
+            "tags": [
+                   "Series: American Politics",
+                   "History"
+            ],
+            "date_published": "2021-02-25T17:07:11-06:00",
+            "date_modified": "2021-02-25T17:07:47-06:00"
+        },
+        {
+            "id": "https://jacksonmooring.com/john-adams-book-review-2/",
+            "url": "https://jacksonmooring.com/john-adams-book-review-2/",
+            "title": "John Adams - Book Review",
+            "author": {
+                "name": "Jackson Mooring"
+            },
+            "tags": [
+                   "History",
+                   "Biography"
+            ],
+            "date_published": "2021-02-25T17:06:46-06:00",
+            "date_modified": "2021-02-25T17:06:55-06:00"
+        },
+        {
+            "id": "https://jacksonmooring.com/who-i-am/",
+            "url": "https://jacksonmooring.com/who-i-am/",
+            "title": "Who I am",
+            "content_html": "<h1>Hey Friends 👋</h1>\n<p>Hi, my name is Jackson. I am a homeschooled high school student. I am a reader, coder, aspiring entrepreneur, and a child of God. I love to be productive, to be helpful, to give, and to get stuff done. I like to study, work, eat, read, live, and run. My day generally starts at 5AM and ends at 8PM. Every day I spend 2 hours of my time participating in productive recreation. My pleasure reading generally consists of historical fiction or historical non-fiction.</p>\n<p> </p>\n<h2>Some random facts about me:</h2>\n<ul>\n<li>I design, code, live, serve, excercise and work.</li>\n<li>I look forward to the future.</li>\n<li>I am passionate about history.</li>\n<li>I am a writer, reader, efficiency enthusiast, homeschooler, and a Christian.</li>\n<li>My goal is projection, not perfection.</li>\n<li>The wind blows, time flies, and I run.</li>\n</ul>\n<p> </p>\n<p>I like to think that I have a big imagination. I would rather do an extra Algebra lesson than eat a mushroom. I would rather write an extra paper than do an extra Algebra lesson. I love Algebra. I hate mushrooms. My pet-peeve is getting interupted for no reason at all. I have 8 cute siblings.</p>",
+            "image": "https://jacksonmooring.com/media/posts/2/ash-edmonds-Koxa-GX_5zs-unsplash.jpg",
+            "author": {
+                "name": "Jackson Mooring"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-02-10T13:29:00-06:00",
+            "date_modified": "2021-02-24T19:53:36-06:00"
+        }
+    ]
+}
